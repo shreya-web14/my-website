@@ -1,1 +1,36 @@
-# my-website
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+
+    <style>
+
+    body{
+        font-family: Arial;
+        background:#f2f2f2;
+        text-align:center;
+    }
+
+    h1{
+        color:blue;
+    }
+
+    img{
+        width:300px;
+        border-radius:10px;
+    }
+
+    </style>
+
+</head>
+
+<body>
+
+<h1>Welcome to My Website</h1>
+
+<p>This webpage is hosted on GitHub Pages.</p>
+
+<img src="flower.jpg" alt="Flower">
+
+</body>
+</html>
